@@ -115,7 +115,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-
+# ==============================Comment this when hosting on python anywhere====================
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
@@ -127,6 +127,7 @@ STATICFILES_DIRS = [
     # "/var/www/static/",
 ]
 
+# ==============================Comment this when hosting on python anywhere====================
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
